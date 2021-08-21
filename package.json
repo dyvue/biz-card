@@ -1,0 +1,26 @@
+{
+  "name": "biz-card",
+  "version": "1.0.0",
+  "description": "This npm package is virtual business card for me. Dyvue",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyvue/biz-card.git"
+  },
+  "keywords": [
+    "dyvue",
+    "biz-card",
+    "virtual",
+    "business",
+    "card"
+  ],
+  "author": "dyvue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyvue/biz-card/issues"
+  },
+  "homepage": "https://github.com/dyvue/biz-card#readme"
+}
