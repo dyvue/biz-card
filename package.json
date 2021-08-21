@@ -1,5 +1,5 @@
 {
-  "name": "biz-card",
+  "name": "@dyvue/biz-card",
   "version": "1.0.0",
   "description": "This npm package is virtual business card for me. Dyvue",
   "main": "main.js",
